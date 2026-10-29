@@ -1,0 +1,181 @@
+[en-us]
+name = "StirlingPDF"
+auth = "Stirling-PDF"
+descript = "Stirling PDF is a powerful, open-source PDF editing platform. Run it as a personal desktop app, in the browser, or deploy it on your own servers with a private API. Edit, sign, redact, convert, and automate PDFs without sending documents to external services."
+release_note = "Bundles APPID v3.2.2"
+important = "Requires DockerEngine to be installed and enabled from the TOS App Center."
+
+[zh-cn]
+name = "StirlingPDF"
+auth = "Stirling-PDF"
+descript = "Stirling PDF 是一个功能强大的开源 PDF 编辑平台。可作为个人桌面应用运行、在浏览器中使用，或通过私有 API 部署于您自己的服务器上。无需将文档发送至外部服务即可进行编辑、签名、涂黑、转换及自动化处理 PDF。"
+release_note = "集成 APPID v3.2.2"
+important = "需要从 TOS 应用中心安装并启用 DockerEngine。"
+
+[zh-hk]
+name = "StirlingPDF"
+auth = "Stirling-PDF"
+descript = "Stirling PDF 是功能強大的開源 PDF 編輯平台。可作為個人桌面應用程式執行、在瀏覽器中使用，或透過私有 API 部署於您自己的伺服器上。無需將文件傳送至外部服務即可進行編輯、簽署、遮蔽、轉換及自動化處理 PDF。"
+release_note = "集成 APPID v3.2.2"
+important = "需要從 TOS 應用中心安裝並啟用 DockerEngine。"
+
+[fr-fr]
+name = "StirlingPDF"
+auth = "Stirling-PDF"
+descript = "Stirling PDF est une plateforme d'édition PDF open source puissante. Exécutez-la en tant qu'application de bureau personnelle, dans le navigateur ou déployez-la sur vos propres serveurs avec une API privée. Éditez, signez, masquez, convertissez et automatisez vos PDF sans envoyer vos documents à des services externes."
+release_note = "Intègre APPID v3.2.2"
+important = "Nécessite que DockerEngine soit installé et activé depuis le TOS App Center."
+
+[de-de]
+name = "StirlingPDF"
+auth = "Stirling-PDF"
+descript = "Stirling PDF ist eine leistungsstarke Open-Source-Plattform zur PDF-Bearbeitung. Nutzen Sie sie als persönliche Desktop-App, im Browser oder bereitgestellt auf Ihren eigenen Servern mit einer privaten API. Bearbeiten, signieren, schwärzen, konvertieren und automatisieren Sie PDFs, ohne Dokumente an externe Dienste zu senden."
+release_note = "Enthält APPID v3.2.2"
+important = "Erfordert die Installation und Aktivierung von DockerEngine aus dem TOS App Center."
+
+[it-it]
+name = "StirlingPDF"
+auth = "Stirling-PDF"
+descript = "Stirling PDF è una potente piattaforma open-source per la modifica dei PDF. Eseguila come app desktop personale, nel browser o distribuiscila sui tuoi server con un'API privata. Modifica, firma, oscura, converti e automatizza i PDF senza inviare documenti a servizi esterni."
+release_note = "Include APPID v3.2.2"
+important = "Richiede che DockerEngine sia installato e abilitato dal TOS App Center."
+
+[es-es]
+name = "StirlingPDF"
+auth = "Stirling-PDF"
+descript = "Stirling PDF es una potente plataforma de edición de PDF de código abierto. Ejecútela como una aplicación de escritorio personal, en el navegador o despliéguela en sus propios servidores con una API privada. Edite, firme, redacte, convierta y automatice archivos PDF sin enviar documentos a servicios externos."
+release_note = "Incluye APPID v3.2.2"
+important = "Requiere que DockerEngine esté instalado y habilitado desde el TOS App Center."
+
+[hu-hu]
+name = "StirlingPDF"
+auth = "Stirling-PDF"
+descript = "A Stirling PDF egy hatékony, nyílt forráskódú PDF-szerkesztő platform. Futtassa személyes asztali alkalmazásként, a böngészőben, vagy telepítse saját szervereire privát API-val. Szerkessze, írja alá, takarja ki, konvertálja és automatizálja a PDF-eket anélkül, hogy a dokumentumokat külső szolgáltatásoknak küldené el."
+release_note = "Az APPID v3.2.2 verziót tartalmazza"
+important = "A DockerEngine telepítése és engedélyezése szükséges a TOS App Centerből."
+
+[ja-jp]
+name = "StirlingPDF"
+auth = "Stirling-PDF"
+descript = "Stirling PDFは、強力でオープンソースのPDF編集プラットフォームです。個人のデスクトップアプリとして実行したり、ブラウザで利用したり、プライベートAPIを使って自社サーバーに配置できます。外部サービスにドキュメントを送信することなく、PDFの編集、署名、黒塗り、変換、自動化が行えます。"
+release_note = "APPID v3.2.2 を同梱"
+important = "TOS App Center から DockerEngine をインストールし、有効にする必要があります。"
+
+[ko-kr]
+name = "StirlingPDF"
+auth = "Stirling-PDF"
+descript = "Stirling PDF는 강력한 오픈 소스 PDF 편집 플랫폼입니다. 개인 데스크톱 앱으로 실행하거나 브라우저에서 사용하거나 프라이빗 API를 통해 자체 서버에 배포할 수 있습니다. 외부 서비스로 문서를 전송하지 않고도 PDF를 편집, 서명, 블랙아웃, 변환 및 자동화할 수 있습니다."
+release_note = "APPID v3.2.2 포함"
+important = "TOS App Center에서 DockerEngine을 설치하고 활성화해야 합니다."
+
+[pl-pl]
+name = "StirlingPDF"
+auth = "Stirling-PDF"
+descript = "Stirling PDF to potężna platforma open-source do edycji plików PDF. Uruchamiaj ją jako osobistą aplikację desktopową, w przeglądarce lub wdróż na własnych serwerach z prywatnym API. Edytuj, podpisuj, redaguj (utajniaj), konwertuj i automatyzuj pliki PDF bez wysyłania dokumentów do zewnętrznych usług."
+release_note = "Zawiera APPID v3.2.2"
+important = "Wymaga zainstalowania i włączenia DockerEngine z TOS App Center."
+
+[ru-ru]
+name = "StirlingPDF"
+auth = "Stirling-PDF"
+descript = "Stirling PDF — это мощная платформа с открытым исходным кодом для редактирования PDF. Запускайте ее как персональное приложение для ПК, в браузере или разворачивайте на собственных серверах с приватным API. Редактируйте, подписывайте, скрывайте данные, конвертируйте и автоматизируйте PDF без отправки документов на внешние сервисы."
+release_note = "Включает APPID v3.2.2"
+important = "Требуется установка и включение DockerEngine из TOS App Center."
+
+[tr-tr]
+name = "StirlingPDF"
+auth = "Stirling-PDF"
+descript = "Stirling PDF, güçlü ve açık kaynaklı bir PDF düzenleme platformudur. Kişisel bir masaüstü uygulaması olarak çalıştırın, tarayıcıda kullanın veya özel bir API ile kendi sunucularınızda dağıtın. Belgeleri harici hizmetlere göndermeden PDF'leri düzenleyin, imzalayın, karartın, dönüştürün ve otomatikleştirin."
+release_note = "APPID v3.2.2 sürümünü içerir"
+important = "TOS App Center üzerinden DockerEngine'in kurulmuş ve etkinleştirilmiş olması gerekir."
+
+[pt-pt]
+name = "StirlingPDF"
+auth = "Stirling-PDF"
+descript = "O Stirling PDF é uma poderosa plataforma de edição de PDF de código aberto. Execute-o como uma aplicação de ambiente de trabalho pessoal, no navegador ou implemente-o nos seus próprios servidores com uma API privada. Edite, assine, oculte, converta e automatize PDFs sem enviar documentos para serviços externos."
+release_note = "Inclui APPID v3.2.2"
+important = "Requer que o DockerEngine esteja instalado e ativado a partir do TOS App Center."
+
+[cs-cz]
+name = "StirlingPDF"
+auth = "Stirling-PDF"
+descript = "Stirling PDF je výkonná open-source platforma pro úpravu PDF. Spusťte ji jako osobní desktopovou aplikaci, v prohlížeči nebo ji nasadíte na vlastní servery s privátním API. Upravujte, podepisujte, začerňujte, převádějte a automatizujte PDF bez odesílání dokumentů externím službám."
+release_note = "Obsahuje APPID v3.2.2"
+important = "Vyžaduje instalaci a povolení aplikace DockerEngine z TOS App Center."
+
+[da-dk]
+name = "StirlingPDF"
+auth = "Stirling-PDF"
+descript = "Stirling PDF er en kraftfuld, open source PDF-redigeringsplatform. Kør den som en personlig desktop-app, i browseren, eller udrul den på dine egne servere med en privat API. Rediger, underskriv, skjul følsomme oplysninger, konverter og automatiser PDF'er uden at sende dokumenter til eksterne tjenester."
+release_note = "Indeholder APPID v3.2.2"
+important = "Kræver at DockerEngine er installeret og aktiveret fra TOS App Center."
+
+[nl-nl]
+name = "StirlingPDF"
+auth = "Stirling-PDF"
+descript = "Stirling PDF is een krachtig, open-source PDF-bewerkingsplatform. Voer het uit als een persoonlijke desktop-app, in de browser, of installeer het op uw eigen servers met een privé-API. Bewerk, onderteken, lak, converteer en automatiseer PDF's zonder documenten naar externe diensten te sturen."
+release_note = "Bevat APPID v3.2.2"
+important = "Vereist dat DockerEngine is geïnstalleerd en ingeschakeld vanuit het TOS App Center."
+
+[nb-no]
+name = "StirlingPDF"
+auth = "Stirling-PDF"
+descript = "Stirling PDF er en kraftfull, åpen kildekode-plattform for PDF-redigering. Kjør den som en personlig skrivebordsapp, i nettleseren, eller distribuer den på dine egne servere med en privat API. Rediger, signer, sladd, konverter og automatiser PDF-er uten å sende dokumenter til eksterne tjenester."
+release_note = "Inneholder APPID v3.2.2"
+important = "Krever at DockerEngine er installert og aktivert fra TOS App Center."
+
+[sv-se]
+name = "StirlingPDF"
+auth = "Stirling-PDF"
+descript = "Stirling PDF är en kraftfull PDF-redigeringsplattform med öppen källkod. Kör den som en personlig skrivbordsapp, i webbläsaren eller distribuera den på dina egna servrar med ett privat API. Redigera, signera, maskera, konvertera och automatisera PDF-filer utan att skicka dokument till externa tjänster."
+release_note = "Innehåller APPID v3.2.2"
+important = "Kräver att DockerEngine är installerat och aktiverat från TOS App Center."
+
+[el-gr]
+name = "StirlingPDF"
+auth = "Stirling-PDF"
+descript = "To Stirling PDF είναι μια ισχυρή πλατφόρμα επεξεργασίας PDF ανοιχτού κώδικα. Εκτελέστε το ως προσωπική εφαρμογή υπολογιστή, στο πρόγραμμα περιήγησης ή εγκαταστήστε το στους δικούς σας διακομιστές με ένα ιδιωτικό API. Επεξεργαστείτε, υπογράψτε, αποκρύψτε κείμενο, μετατρέψτε και αυτοματοποιήστε αρχεία PDF χωρίς να στέλνετε έγγραφα σε εξωτερικές υπηρεσίες."
+release_note = "Περιλαμβάνει το APPID v3.2.2"
+important = "Aπαιτείται η εγκατάσταση και ενεργοποίηση του DockerEngine από το TOS App Center."
+
+[ro-ro]
+name = "StirlingPDF"
+auth = "Stirling-PDF"
+descript = "Stirling PDF este o platformă puternică, open-source, pentru editarea fișierelor PDF. Rulați-o ca aplicație desktop personală, în browser sau dotați-o pe propriile servere cu un API privat. Editați, semnați, cenzurați, convertiți și automatizați fișiere PDF fără a trimite documente către servicii externe."
+release_note = "Include APPID v3.2.2"
+important = "Necesită instalarea și activarea DockerEngine din TOS App Center."
+
+[th-th]
+name = "StirlingPDF"
+auth = "Stirling-PDF"
+descript = "Stirling PDF คือแพลตฟอร์มแก้ไข PDF โอเพ่นซอร์สที่มีประสิทธิภาพสูง ใช้งานเป็นแอปเดสก์ท็อปส่วนตัว ผ่านเบราว์เซอร์ หรือปรับใช้บนเซิร์ฟเวอร์ของคุณเองด้วย private API แก้ไข เซ็นชื่อ ปิดบังข้อความ แปลงไฟล์ และจัดการ PDF โดยไม่ต้องส่งเอกสารไปยังบริการภายนอก"
+release_note = "รวม APPID v3.2.2"
+important = "จำเป็นต้องติดตั้งและเปิดใช้งาน DockerEngine จาก TOS App Center"
+
+[vi-vn]
+name = "StirlingPDF"
+auth = "Stirling-PDF"
+descript = "Stirling PDF là một nền tảng chỉnh sửa PDF mã nguồn mở mạnh mẽ. Chạy ứng dụng dưới dạng ứng dụng máy tính cá nhân, trên trình duyệt hoặc triển khai trên máy chủ của riêng bạn với API riêng. Chỉnh sửa, ký, che thông tin, chuyển đổi và tự động hóa PDF mà không cần gửi tài liệu đến các dịch vụ bên ngoài."
+release_note = "Đi kèm APPID v3.2.2"
+important = "Yêu cầu DockerEngine phải được cài đặt và kích hoạt từ TOS App Center."
+
+[id-id]
+name = "StirlingPDF"
+auth = "Stirling-PDF"
+descript = "Stirling PDF adalah platform penyuntingan PDF sumber terbuka yang andal. Jalankan sebagai aplikasi desktop pribadi, di browser, atau sebarkan di server Anda sendiri dengan API pribadi. Sunting, tanda tangani, redaksional/kaburkan, konversi, dan otomatisasi PDF tanpa mengirim dokumen ke layanan eksternal."
+release_note = "Bundel APPID v3.2.2"
+important = "Memerlukan DockerEngine untuk diinstal dan diaktifkan dari TOS App Center."
+
+[ar-sa]
+name = "StirlingPDF"
+auth = "Stirling-PDF"
+descript = "Stirling PDF هي منصة قوية ومفتوحة المصدر لتعديل ملفات PDF. قم بتشغيلها كتطبيق مكتبي شخصي، أو عبر المتصفح، أو بنشرها على خوادمك الخاصة باستخدام واجهة برمجة تطبيقات (API) خاصة. قم بتعديل وتوقيع وحجب وتنقيح وتحويل وأتمتة ملفات PDF دون إرسال المستندات إلى خدمات خارجية."
+release_note = "يتضمن APPID v3.2.2"
+important = "يتطلب تثبيت DockerEngine وتمكينه من مركز تطبيقات TOS (TOS App Center)."
+
+[he-il]
+name = "StirlingPDF"
+auth = "Stirling-PDF"
+descript = "Stirling PDF היא פלטפורמת עריכת PDF חזקה בקוד פתוח. הפעל אותה כאפליקציית שולחן עבודה אישית, בדפדפן, או פרוס אותה בשרתים שלך עם API פרטי. ערוך, חתום, הסטר טקסט, המר ובצע אוטומציה של קובצי PDF מבלי לשלוח מסמכים לשירותים חיצוניים."
+release_note = "כולל APPID v3.2.2"
+important = "דרוש התקנה והפעלה של DockerEngine מ-TOS App Center."
